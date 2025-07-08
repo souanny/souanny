@@ -24,5 +24,3 @@
 
 💌 Vamos nos conectar?  
 Me chama lá no Instagram ou manda um alô por aqui!
-
-feat: adicionado README de apresentação
