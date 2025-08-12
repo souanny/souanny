@@ -19,7 +19,7 @@
 ### 🚀 Sobre mim  
 - 📚 Estudante de **Engenharia de Software** na UNINTER  
 - 📊 Apaixonada por **Dados, Python, SQL e Machine Learning**  
-- 🎯 Sonho: trabalhar como **Engenheira de Dados** na Alemanha ou Suíça  
+- 🎯 Sonho: trabalhar como **Engenheira de Dados** na Alemanha  
 - 💡 Criadora do projeto **Project Data Wings**  
 - 💬 Amo compartilhar meu progresso no Instagram [@codeanny](https://instagram.com/codeanny)  
 
