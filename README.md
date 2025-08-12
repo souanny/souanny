@@ -11,7 +11,7 @@
 
 <!-- Imagem decorativa (gráfico) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnU2Mm1rdmQ1dmI4dXBnb25zaTJmazdubDkwZWJmaWtxMzVpMWtjdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3oFzmrqRPhYnFg9oGs/giphy.gif" />
+  <img src="https://tenor.com/q9CZzQ6yGZa.gif" />
 </p>
 
 ---
