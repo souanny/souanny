@@ -11,8 +11,9 @@
 
 <!-- Imagem decorativa (gráfico) -->
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" />
+  <img src="./assets/girl-coding.gif" width="400px" alt="Menina codando"/>
 </p>
+
 
 ---
 
