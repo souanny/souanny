@@ -1,26 +1,48 @@
-# Olá! Eu sou a Anny 💻✨
+<!-- Banner / Título -->
+<h1 align="center">👋 Olá, eu sou Leidianny Ferreira</h1>
+<h3 align="center">Estudante de Engenharia de Software | Futura Engenheira de Dados</h3>
 
-💻 Estudante de Engenharia de Software na UNINTER  
-🚀 Apaixonada por dados, tecnologia e programação
-👩🏻‍💻 Atualmente aprendendo Python, SQL e fundamentos da Engenharia de Dados  
-📚 Compartilho minha rotina tech no [@codeanny](https://www.instagram.com/codeanny)  
-🌈 Sonho em trabalhar como engenheira de dados 
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-black?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
----
-
-### 💼 Projetos em construção:
-- `manipulacao-de-strings-python`
-- `meus-estudos-sql`
-- `souannystudy-live-pack`
-
----
-
-### 🛠️ Tecnologias que estou aprendendo:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<!-- Imagem decorativa (gráfico) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNjc2lnY2ZsaHJvdmRqd3Y3eDdrbWg2bHp2ZXVmeWhrYmQ4cnl1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+</p>
 
 ---
 
-💌 Vamos nos conectar?  
-Me chama lá no Instagram ou manda um alô por aqui!
+### 🚀 Sobre mim  
+- 📚 Estudante de **Engenharia de Software** na UNINTER  
+- 📊 Apaixonada por **Dados, Python, SQL e Machine Learning**  
+- 🎯 Sonho: trabalhar como **Engenheira de Dados** na Alemanha ou Suíça  
+- 💡 Criadora do projeto **Project Data Wings**  
+- 💬 Amo compartilhar meu progresso no Instagram [@codeanny](https://instagram.com/codeanny)  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Python, SQL  
+- **Banco de Dados:** PostgreSQL, MySQL  
+- **Ferramentas de Dados:** Pandas, Jupyter Notebook  
+- **Versionamento:** Git, GitHub  
+
+---
+
+### 📈 Status no GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souanny&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souanny&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+### 🌍 Onde me encontrar
+<p align="left">
+  <a href="https://instagram.com/codeanny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leidiannyferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
