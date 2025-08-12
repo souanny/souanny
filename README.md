@@ -10,6 +10,7 @@
 </p>
 
 <!-- Imagem decorativa (gráfico) -->
+
 <p align="center">
   <img src="./assets/girl-coding.gif" width="400px" alt="Menina codando"/>
 </p>
