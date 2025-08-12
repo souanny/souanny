@@ -11,7 +11,7 @@
 
 <!-- Imagem decorativa (gráfico) -->
 <p align="center">
-  <img src="https://tenor.com/q9CZzQ6yGZa.gif" />
+  <img src="https://tenor.com/pt-BR/view/pjsk-pjsk-anime-project-sekai-anime-project-sekai-25ji-gif-14260846717863156026" />
 </p>
 
 ---
